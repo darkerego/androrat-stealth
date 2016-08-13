@@ -2,9 +2,9 @@ androrat stealth
 ========
 # Changes:
  - Configured for a hardcoded IP address and stealth:
-  - Remove user interface, app launches and immediatly exits
+  - Remove user interface, app launches and immediatly closes activity
   - Remove icon from app drawer after first run. 
-   - The service will start after each reboot
+   - The service will start, and again after each reboot
    - The user is totally ignorant that the app is there at all
 
 
