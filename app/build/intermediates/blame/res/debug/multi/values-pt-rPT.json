@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/home/anon/Dev/Androrat6_/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 194,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 198,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 193,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 197,
+                        "endOffset": 2867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 113,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2355,
+                        "endColumn": 113,
+                        "endOffset": 2464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 275,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4608,
+                        "endColumn": 279,
+                        "endOffset": 4883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 130,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 130,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 194,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 198,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 128,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 128,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 166,
+                    "endOffset": 1501
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 170,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1506,
+                    "endColumn": 130,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 130,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 230,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 234,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1868,
+                    "endColumn": 227,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 231,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 127,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 127,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endColumn": 186,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3657,
+                        "endColumn": 186,
+                        "endOffset": 3839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endColumn": 122,
+                    "endOffset": 2529
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3534,
+                        "endColumn": 122,
+                        "endOffset": 3652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2534,
+                    "endColumn": 171,
+                    "endOffset": 2701
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 171,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2706,
+                    "endColumn": 181,
+                    "endOffset": 2883
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3352,
+                        "endColumn": 181,
+                        "endOffset": 3529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2888,
+                    "endColumn": 118,
+                    "endOffset": 3002
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3233,
+                        "endColumn": 118,
+                        "endOffset": 3347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3007,
+                    "endColumn": 185,
+                    "endOffset": 3188
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 185,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3193,
+                    "endColumn": 138,
+                    "endOffset": 3327
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 138,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3332,
+                    "endColumn": 180,
+                    "endOffset": 3508
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 5019,
+                        "endColumn": 180,
+                        "endOffset": 5195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3513,
+                    "endColumn": 130,
+                    "endOffset": 3639
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4888,
+                        "endColumn": 130,
+                        "endOffset": 5014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3644,
+                    "endColumn": 150,
+                    "endOffset": 3790
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3844,
+                        "endColumn": 150,
+                        "endOffset": 3990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3795,
+                    "endColumn": 273,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4123,
+                        "endColumn": 277,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 127,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3995,
+                        "endColumn": 127,
+                        "endOffset": 4118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 109,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4401,
+                        "endColumn": 109,
+                        "endOffset": 4506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endColumn": 200,
+                    "endOffset": 4503
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endColumn": 204,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4508,
+                    "endColumn": 132,
+                    "endOffset": 4636
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endColumn": 132,
+                        "endOffset": 2350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4641,
+                    "endColumn": 217,
+                    "endOffset": 4854
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3011,
+                        "endColumn": 221,
+                        "endOffset": 3228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4859,
+                    "endColumn": 138,
+                    "endOffset": 4993
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2872,
+                        "endColumn": 138,
+                        "endOffset": 3006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4998,
+                    "endColumn": 96,
+                    "endOffset": 5090
+                },
+                "from": {
+                    "file": "/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4511,
+                        "endColumn": 96,
+                        "endOffset": 4603
+                    }
+                }
+            }
+        ]
+    }
+]

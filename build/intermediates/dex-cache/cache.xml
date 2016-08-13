@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/anon/Dev/Androrat6_/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_301e01cbfc2a3c09f3b7981d54fbb43d515627df.jar" />
+    </item>
+    <item
+        jar="/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/anon/Dev/Androrat6_/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_65eebf604752f48b897b10b2079cb905cfc33962.jar" />
+    </item>
+    <item
+        jar="/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/anon/Dev/Androrat6_/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_07e660251af7a289abd6a8239dc18ecdb2e292c5.jar" />
+    </item>
+    <item
+        jar="/home/anon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/anon/Dev/Androrat6_/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_a0739e0d34b0c853e1f26db2891a1d10bcd092ae.jar" />
+    </item>
+    <item
+        jar="/home/anon/Dev/Androrat6_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/anon/Dev/Androrat6_/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_cc20e34a3a10a995935de1b2dea8c0f88bb5beb4.jar" />
+    </item>
+
+</items>
