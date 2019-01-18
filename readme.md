@@ -73,3 +73,8 @@ The two screenshots below shows two others tabs for two functionalities which ar
 ![Contacts](https://raw.github.com/RobinDavid/androrat/master/doc/contact.png)
 
 ![GPS tab](https://raw.github.com/RobinDavid/androrat/master/doc/gps.png)
+
+
+
+
+**Tips: BTC:1F48WFsbCBGuYCopXnBaK9tM7A2JhAWEyw**
